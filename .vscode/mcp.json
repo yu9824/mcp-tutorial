@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "mcp-tutorial-server": {
+            "type": "stdio",
+            "command": "bash",
+            "args": [
+                "serve.sh"
+            ]
+        }
+    },
+    "inputs": []
+}
