@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mcp-tutorial-server": {
+      "command": "bash",
+      "args": [
+        "serve.sh"
+      ]
+    }
+  }
+}
