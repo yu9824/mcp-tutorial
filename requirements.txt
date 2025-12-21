@@ -1,3 +1,10 @@
 mcp[cli]
 jupyter
 jupytext
+fastmcp
+langchain
+langchain-core
+langchain-mcp
+langchain-mcp-adapters
+langchain-community
+langchain-ollama
