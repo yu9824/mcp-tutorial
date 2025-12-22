@@ -2,9 +2,9 @@ mcp[cli]
 jupyter
 jupytext
 fastmcp
-langchain
+langchain>=1.2.0
 langchain-core
-langchain-mcp
 langchain-mcp-adapters
 langchain-community
 langchain-ollama
+langgraph>=1.0.0
