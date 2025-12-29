@@ -8,3 +8,4 @@ langchain-mcp-adapters
 langchain-community
 langchain-ollama
 langgraph>=1.0.0
+pandas
